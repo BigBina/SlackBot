@@ -1,4 +1,11 @@
 """
+This program performs the following action:
+
+1. uses /question command to send a user a create question button
+2. create a dialog box to capture user question
+3. Sends to public channel
+
+Pending
 1. Creating a Text file for loading static enviroment variables and tokens
 2. Retrieve user ID from /question endpoint i.e. "/slack/command", methods=["POST"]
 3. Refactor code.
